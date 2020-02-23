@@ -1,5 +1,5 @@
-# Homework1-Refactor
-01-24-2020 Refactor a website to make it accessible
+# HTML Refactoring
+Refactor a website to make it accessible.
 
 Horiseon site was refactored to include:
 
